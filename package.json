@@ -2,7 +2,7 @@
   "name": "react1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "./node_modules/.bin/nodemon --watch src/ --ext jsx --exec npm run build",
     "build": "./node_modules/.bin/babel src -d lib",
